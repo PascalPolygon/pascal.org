@@ -54,6 +54,14 @@ function App() {
            </ul>
          </li>
 
+         <li>AGI is on the horizon...
+          <ul>
+            <li>Humanity is called to create AGI</li>
+            <li>Current transformer-based architectures automate knowledge tasks but do not naturally lead to human-level general intelligence (AGI)</li>
+            <li>AGI may require new architectures and algorithmic breakthroughs beyond our current understanding</li>
+          </ul>
+        </li>
+
         <li>The bridge matters less than who it carries across</li>
         <ul>
           <li>Technology is for people</li>
