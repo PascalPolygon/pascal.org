@@ -44,13 +44,6 @@ function App() {
 
       Some things I believe:
       <ul>
-        <li>AGI is on the horizon...
-          <ul>
-            <li>Humanity is called to create AGI</li>
-            <li>Current transformer-based architectures automate knowledge tasks but do not naturally lead to human-level general intelligence (AGI)</li>
-            <li>AGI may require new architectures and algorithmic breakthroughs beyond our current understanding</li>
-          </ul>
-        </li>
 
         <li>Language is the map, not the territory
            <ul>
@@ -75,13 +68,6 @@ function App() {
           <li>Collaboration accelerates progress</li>
           <li>Transparency builds trust</li>
           <li>Give back to the community that helped you grow</li>
-        </ul>
-
-        <li>Simplicity is sophistication</li>
-        <ul>
-          <li>Complex problems often have elegant solutions</li>
-          <li>Good design is invisible</li>
-          <li>Less is more when done thoughtfully</li>
         </ul>
 
       </ul>
