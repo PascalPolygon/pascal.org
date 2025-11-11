@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div id="maincontent">
-      <h2>Mawaba Pascal Dao</h2>
+      <h2>Mawaba Pascal Dao, PhD</h2>
       <p style={{ display: 'flex', gap: '15px', alignItems: 'center' }}>
         <a href="/MawabaPascalDaoResume.pdf" title="Resume" target="_blank">
             <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
@@ -33,7 +33,7 @@ function App() {
       <ul>
         <li>Grew up in <a href="https://www.britannica.com/place/Togo" target="_blank">Lomé, Togo</a></li>
         <li>Been coding since 2015</li>
-        <li>PhD Candidate in Computer Engineering at Florida Institute of Technology, Defending in August 2025</li>
+        <li>PhD in Computer Engineering and AI from Florida Institute of Technology</li>
         <li>Working on Group Relative Policy Optimization with variational disagreement reward for exploration <a href="https://github.com/PascalPolygon/grpo-vdr" target="_blank">(GRPO-VDR)</a> </li>
         <li>Built a fork of Hugging Face's <a href="https://github.com/PascalPolygon/trl" target="_blank">TRL</a> with custom Bayesian Active Learning by Disagreement (BALD) bonus</li> 
         <li>See my <a href="https://scholar.google.com/citations?user=-pQBBjoAAAAJ&hl=en&oi=ao" target="_blank">publications</a></li>
@@ -44,7 +44,7 @@ function App() {
 
       Some things I believe:
       <ul>
-
+        <li>Transformers are the new transistors, now we need to build new computers</li>
         <li>Language is the map, not the territory
            <ul>
              <li>Language-based learning is a top-down approach that may be inherently limited</li>
