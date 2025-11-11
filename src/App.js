@@ -33,6 +33,7 @@ function App() {
       <ul>
         <li>Grew up in <a href="https://www.britannica.com/place/Togo" target="_blank">Lomé, Togo</a></li>
         <li>Been coding since 2015</li>
+        <li>Solutions Architect, GenAI & Startups @ AWS</li>
         <li>PhD in Computer Engineering and AI from Florida Institute of Technology</li>
         <li>Working on Group Relative Policy Optimization with variational disagreement reward for exploration <a href="https://github.com/PascalPolygon/grpo-vdr" target="_blank">(GRPO-VDR)</a> </li>
         <li>Built a fork of Hugging Face's <a href="https://github.com/PascalPolygon/trl" target="_blank">TRL</a> with custom Bayesian Active Learning by Disagreement (BALD) bonus</li> 
