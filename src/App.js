@@ -38,7 +38,7 @@ function App() {
         <li>Working on Group Relative Policy Optimization with variational disagreement reward for exploration <a href="https://github.com/PascalPolygon/grpo-vdr" target="_blank">(GRPO-VDR)</a> </li>
         <li>Built a fork of Hugging Face's <a href="https://github.com/PascalPolygon/trl" target="_blank">TRL</a> with custom Bayesian Active Learning by Disagreement (BALD) bonus</li> 
         <li>See my <a href="https://scholar.google.com/citations?user=-pQBBjoAAAAJ&hl=en&oi=ao" target="_blank">publications</a></li>
-        <li>Co-founded <a href="https://make-print.com/" target="_blank">Make-Print</a>, a manufacturing automation platform, led both engineering and company direction</li>
+        <li>Co-founded <a href="https://make-print.com/" target="_blank">Make-Print</a></li>
         <li>Live in Florida</li>
         <li>Train Brazilian Jiu-Jitsu</li>
         <li>Passionate about building AI agents through bio-inspired approaches</li>
